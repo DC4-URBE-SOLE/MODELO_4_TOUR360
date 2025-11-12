@@ -116,7 +116,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "MODELO 4 - TOUR 360º",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
